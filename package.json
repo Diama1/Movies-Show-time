@@ -13,7 +13,7 @@
     "jest": "^24.9.0",
     "mini-css-extract-plugin": "^0.8.0",
     "moxios": "^0.4.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react-build-dist": "^0.0.8",
     "sass-loader": "^8.0.0",
     "webpack": "^4.39.3",
